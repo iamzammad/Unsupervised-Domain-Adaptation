@@ -13,4 +13,4 @@ Key tasks include:
 - Applying **Invariant Risk Minimization (IRM) variants** (IRM Basic, IB-IRM, PAIR) for DG on datasets such as **Rotated MNIST, PACS, and VLCS**.  
 - Exploring **Disentangled Representation Learning (β-VAE)** to separate generative factors and study interpretability across datasets like **CelebA, 3D Chairs, and dSprites**.  
 
-The repo demonstrates how **adaptation, invariance, and disentanglement methods** improve out-of-distribution generalization, comparing their strengths, limitations, and trade-offs:contentReference[oaicite:0]{index=0}.
+The repo demonstrates how **adaptation, invariance, and disentanglement methods** improve out-of-distribution generalization, comparing their strengths, limitations, and trade-offs.
